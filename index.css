@@ -1,0 +1,16 @@
+.box1{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    background-color: #a21b1b;
+}
+.boxall{
+    display: grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   grid-template-rows: 1fr 1fr 1fr 1fr;
+ 
+  grid-row-gap: 54px;
+}
+box3{
+    border-radius: 50px;
+}
